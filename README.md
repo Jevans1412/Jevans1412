@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Jeremy Evans
-- 👀 I’m interested in working on harder projects to help showcase my skills to grow into a versatile developer!
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on a fun browser based game or maybe a graphic responsive site.
-- 📫 How to reach me by email jevans1412@mylincoln.edu.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know alligators hibernate at the top of the water when its cold out?
+# Project 3: Around The U.S.
+Title: Around The U.S.
+  
+  
+**Intro**
+  
+Hello all! My name is Jeremy Evans, this project is made so all the elements are displayed correctly on popular screen sizes. Starting from scratch in order to replicate the mockup that is posted below availabe on figma or this current README file. The idea is to make it responsive from 1280px to 320px while keeping all elements from sticking to the left side. Hope you enjoy!  
 
-<!---
-Jevans1412/Jevans1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Flexboxes
+* Grids
+* Calc Function
+* Margins
+* Positioning
+* BEM Structure and labeling
+* Grid template
+  
+**Figma**  
+  
+* [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
+  
+**Images**  
+
+![Project layout](<MAIN PAGE.png>)
+
+ https://github.com/Jevans1412
+  
+Good luck and have fun!
+
